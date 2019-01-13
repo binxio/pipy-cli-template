@@ -29,7 +29,7 @@ setup(
     install_requires=[
         "click == 6.7",
         "click-log == 0.2.1",
-        "pyyaml == 3.12",
+        "pyyaml >= 4.2b1",
         "simplejson == 3.13.2",
         "configparser == 3.5.0"
     ],
